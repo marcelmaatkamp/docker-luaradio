@@ -9,11 +9,6 @@ From [http://luaradio.io](http://luaradio.io/)
 
 > Use GNU Radio? See [how LuaRadio compares to GNU Radio][5].
 
-To run simply type:
-```
- $ docker run -ti --privileged marcelmaatkamp/luaradio
-```
-
 ## Example
 
 _Mono Wideband FM Broadcast Radio Receiver_
@@ -32,8 +27,11 @@ _Mono Wideband FM Broadcast Radio Receiver_
         radio.PulseAudioSink(1)                      -- Play to system audio with PulseAudio
     ):run()
 
+To run simply type:
+```
+ $ docker run -ti --privileged marcelmaatkamp/luaradio
+```
 Check out some more [examples][7] of what you can build with LuaRadio.
-
 
 [1]: http://luajit.org/
 [2]: http://luajit.org/ext_ffi.html
