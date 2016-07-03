@@ -15,7 +15,7 @@ From [http://luaradio.io](http://luaradio.io/)
 
 _Mono Wideband FM Broadcast Radio Receiver_
 
-![image][6]
+![image](http://luaradio.io/docs/figures/flowgraph_rtlsdr_wbfm_mono_compact.png)
 
     local radio = require('radio')
 
