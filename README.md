@@ -1,8 +1,6 @@
-# docker-luaradio
+# LuaRadio as a Docker image
 
 From [http://luaradio.io](http://luaradio.io/)
-# LuaRadio
-
 > **LuaRadio** is a lightweight, embeddable flow graph signal processing framework for software-defined radio. It provides a suite of source, sink, and processing blocks, with a simple API for defining flow graphs, running flow graphs, creating blocks, and creating data types. LuaRadio is built on [LuaJIT][1], has a small binary footprint of under 750 KB (including LuaJIT), has no external hard dependencies, and is MIT licensed.
 > 
 > LuaRadio can be used to rapidly prototype software radios, modulation/demodulation utilities, and signal processing experiments. It can also be embedded into existing radio applications to serve as a user scriptable engine for processing samples.
