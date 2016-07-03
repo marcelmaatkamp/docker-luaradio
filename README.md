@@ -9,6 +9,11 @@ From [http://luaradio.io](http://luaradio.io/)
 
 > Use GNU Radio? See [how LuaRadio compares to GNU Radio][5].
 
+To run simply type:
+```
+ $ docker run -ti --privileged marcelmaatkamp/luaradio"
+```
+
 ## Example
 
 _Mono Wideband FM Broadcast Radio Receiver_
