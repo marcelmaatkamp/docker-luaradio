@@ -11,7 +11,7 @@ From [http://luaradio.io](http://luaradio.io/)
 
 To run simply type:
 ```
- $ docker run -ti --privileged marcelmaatkamp/luaradio"
+ $ docker run -ti --privileged marcelmaatkamp/luaradio
 ```
 
 ## Example
